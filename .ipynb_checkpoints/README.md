@@ -99,8 +99,8 @@ Clone o repositório e instale as dependências:
 
 ```bash
 # Clone o repositório
-git clone 
-cd tech-challenge-fase1
+git clone https://github.com/Misadri/Tech-Challenge.git
+cd tech-challenge
 
 # Instale as dependências
 pip install pandas numpy matplotlib seaborn scikit-learn shap jupyter
