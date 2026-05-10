@@ -1,7 +1,7 @@
 # 🏥 Tech Challenge — Fase 1
 ## Sistema Inteligente de Suporte ao Diagnóstico — Saúde da Mulher
 
-> Projeto desenvolvido para o **PosTech** como parte do Tech Challenge da Fase 1.  
+> Projeto desenvolvido para o **PosTech** como parte do Tech Challenge 1.  
 > Aplicação de Machine Learning para classificação de risco de câncer de mama, com foco em apoio à decisão médica.
 
 ---
